@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        img{
+        height: 100;
+        width: 80px;
+        padding: 10px;
+    }
+    #Box1{
+        border: solid black; 
+        position: static;
+        background-color: blueviolet;
+        width: 200px;
+        height: 200px;
+    }
+    #Box1{
+        border: solid black; 
+        position: static;
+        background-color: blueviolet;
+        width: 200px;
+        height: 200px;
+    }
+    #Box2{
+        border: solid black; 
+        position: static;
+        background-color: blueviolet;
+        width: 200px;
+        height: 200px;
+    }
+    #Box3{
+        border: solid black; 
+        position: static;
+        background-color: blueviolet;
+        width: 200px;
+        height: 200px;
+    }
+    #Box4{
+        border: solid black; 
+        position: static;
+        background-color: blueviolet;
+        width: 200px;
+        height: 200px;
+    }
+    #Box5{
+        border: solid black; 
+        position: static;
+        background-color: blueviolet;
+        width: 200px;
+        height: 200px;
+    }
+    #Box6{
+        border: solid black; 
+        position: static;
+        background-color: blueviolet;
+        width: 200px;
+        height: 200px;
+    }
+    #Box7{
+        border: solid black; 
+        position: static;
+        background-color: blueviolet;
+        width: 200px;
+        height: 200px;
+    }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <div id="Box1"><img src="./gang/pecora.jpg" alt=""></div> 
+   <br>
+   <div id="Box2"><img src="./gang/pecora_06.jpg" alt=""></div> 
+   <br>
+   <div id="Box3"><img src="./gang/razze-di-pecore.webp" alt=""></div>
+   <br>
+   <div id="Box4"><img src="./gang/csm_Spiegelschaf_ProSpecieRara_114_bdfa7fed03.jpg" alt=""></div>
+   <br>
+   <div id="Box5"><img src="./gang/images.jfif" alt=""></div>
+   <br>
+   <div id="Box6"><img src="./gang/pecorf.jpg" alt=""></div>
+   <br>
+   <div id="Box7"><img src="./gang/tosa-pecora-3.jpg" alt=""></div>
+</body>
+</html>
